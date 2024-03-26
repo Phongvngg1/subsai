@@ -100,7 +100,7 @@ _Quoted from the official openai/whisper installation_
 * Once ffmpeg is installed, install `subsai`
 
 ```shell
-pip install git+[https://github.com/abdeladim-s/subsai](https://github.com/Phongvngg1/subsai)
+pip install git+https://github.com/Phongvngg1/subsai
 ```
 
 # Usage
